@@ -16,9 +16,11 @@
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/akodo09/leetcode_solutions/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akodo09/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
