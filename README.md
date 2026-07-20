@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
 ## Dynamic Programming
 |  |
@@ -23,4 +24,8 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akodo09/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
