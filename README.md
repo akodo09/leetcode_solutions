@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/akodo09/leetcode_solutions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
