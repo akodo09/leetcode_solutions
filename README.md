@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
