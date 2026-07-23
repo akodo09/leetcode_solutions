@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akodo09/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/akodo09/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/akodo09/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -24,6 +25,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akodo09/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
 ## Math
 |  |
@@ -97,6 +99,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akodo09/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/akodo09/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
