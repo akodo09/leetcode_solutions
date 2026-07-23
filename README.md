@@ -35,6 +35,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akodo09/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/akodo09/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/akodo09/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/akodo09/leetcode_solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
