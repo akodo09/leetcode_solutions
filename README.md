@@ -33,6 +33,7 @@
 | [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/akodo09/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akodo09/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0206-reverse-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akodo09/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
