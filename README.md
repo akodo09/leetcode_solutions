@@ -47,6 +47,7 @@
 | [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/akodo09/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akodo09/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -103,6 +104,7 @@
 | [0011-container-with-most-water](https://github.com/akodo09/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/akodo09/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akodo09/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/akodo09/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
