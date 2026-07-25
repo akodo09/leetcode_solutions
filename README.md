@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
@@ -70,10 +71,12 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +116,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/akodo09/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
