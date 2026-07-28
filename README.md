@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akodo09/leetcode_solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/akodo09/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/akodo09/leetcode_solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/akodo09/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akodo09/leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akodo09/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/akodo09/leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/akodo09/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
