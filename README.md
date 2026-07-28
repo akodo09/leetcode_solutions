@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akodo09/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -57,6 +58,7 @@
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akodo09/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -68,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/akodo09/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/akodo09/leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -90,6 +93,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/akodo09/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/akodo09/leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -105,6 +109,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
