@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akodo09/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/akodo09/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/akodo09/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/akodo09/leetcode_solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -123,6 +124,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akodo09/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
