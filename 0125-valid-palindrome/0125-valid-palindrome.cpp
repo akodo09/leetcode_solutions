@@ -4,8 +4,8 @@ public:
         for(char &ch:s){
             ch=tolower(ch);
         }
-        int n=s.size();
-        int i=0,j=n-1;
+        int i=0;
+        int j=s.size()-1;
         while(j>i){
             if(isalnum(s[i]) && isalnum(s[j])){
                 if(s[i]!=s[j]) return false;
@@ -13,7 +13,8 @@ public:
                     i++;
                     j--;
                 }
-            }else if(!isalnum(s[i])) i++;
+            }
+            else if(!isalnum(s[i])) i++;
             else j--;
         }
         return true;
