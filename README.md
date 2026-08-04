@@ -36,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/akodo09/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/akodo09/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akodo09/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0125-valid-palindrome](https://github.com/akodo09/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
@@ -162,6 +164,7 @@
 | [0189-rotate-array](https://github.com/akodo09/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
