@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/akodo09/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akodo09/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/akodo09/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/akodo09/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akodo09/leetcode_solutions/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -82,6 +83,7 @@
 | [0013-roman-to-integer](https://github.com/akodo09/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/akodo09/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/akodo09/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/akodo09/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akodo09/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akodo09/leetcode_solutions/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akodo09/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
