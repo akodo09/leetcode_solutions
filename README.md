@@ -18,6 +18,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/akodo09/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/akodo09/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akodo09/leetcode_solutions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akodo09/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akodo09/leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akodo09/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/akodo09/leetcode_solutions/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akodo09/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/akodo09/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akodo09/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/akodo09/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/akodo09/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/akodo09/leetcode_solutions/tree/master/0263-ugly-number) |
@@ -204,6 +206,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akodo09/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akodo09/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
