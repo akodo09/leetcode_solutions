@@ -189,6 +189,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/akodo09/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akodo09/leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/akodo09/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/akodo09/leetcode_solutions/tree/master/0148-sort-list) |
@@ -231,6 +232,7 @@
 | [0100-same-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -239,6 +241,7 @@
 | [0100-same-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -246,6 +249,7 @@
 | [0100-same-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -254,6 +258,7 @@
 | [0100-same-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
