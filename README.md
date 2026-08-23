@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akodo09/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
 |  |
 | ------- |
