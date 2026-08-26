@@ -34,6 +34,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0045-jump-game-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/akodo09/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akodo09/leetcode_solutions/tree/master/0135-candy) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Math
 |  |
 | ------- |
