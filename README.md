@@ -81,6 +81,7 @@
 | [0383-ransom-note](https://github.com/akodo09/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akodo09/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Tree
 |  |
 | ------- |
