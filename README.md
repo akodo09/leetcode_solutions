@@ -239,6 +239,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,6 +249,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -265,6 +268,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
