@@ -81,6 +81,7 @@
 | [0383-ransom-note](https://github.com/akodo09/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/akodo09/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
 |  |
@@ -159,6 +160,7 @@
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akodo09/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/akodo09/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
