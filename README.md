@@ -39,6 +39,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akodo09/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [4020-elevator-requests-i](https://github.com/akodo09/leetcode_solutions/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -319,4 +320,8 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/akodo09/leetcode_solutions/tree/master/0402-remove-k-digits) |
+## Simulation
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/akodo09/leetcode_solutions/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
