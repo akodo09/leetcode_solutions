@@ -75,6 +75,7 @@
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0836-rectangle-overlap](https://github.com/akodo09/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akodo09/leetcode_solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akodo09/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## String
@@ -340,4 +341,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/akodo09/leetcode_solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
