@@ -38,6 +38,7 @@
 | [0525-contiguous-array](https://github.com/akodo09/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akodo09/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -59,6 +60,7 @@
 | [0134-gas-station](https://github.com/akodo09/leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akodo09/leetcode_solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/akodo09/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Math
 |  |
@@ -138,6 +140,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -216,6 +219,7 @@
 | [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 ## Linked List
 |  |
 | ------- |
@@ -332,4 +336,8 @@
 |  |
 | ------- |
 | [4020-elevator-requests-i](https://github.com/akodo09/leetcode_solutions/tree/master/4020-elevator-requests-i) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
