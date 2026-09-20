@@ -39,6 +39,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akodo09/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akodo09/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -157,6 +158,7 @@
 | [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akodo09/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0238-product-of-array-except-self](https://github.com/akodo09/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/akodo09/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/akodo09/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Two Pointers
 |  |
@@ -270,6 +273,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/akodo09/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akodo09/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akodo09/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
