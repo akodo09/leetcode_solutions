@@ -45,6 +45,7 @@
 | [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akodo09/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akodo09/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [4020-elevator-requests-i](https://github.com/akodo09/leetcode_solutions/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
@@ -271,6 +272,7 @@
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akodo09/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akodo09/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Tree
 |  |
 | ------- |
