@@ -38,6 +38,7 @@
 | [0525-contiguous-array](https://github.com/akodo09/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akodo09/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -103,6 +104,7 @@
 | [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/akodo09/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [2833-furthest-point-from-origin](https://github.com/akodo09/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
@@ -129,6 +131,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/akodo09/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akodo09/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akodo09/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -149,6 +152,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akodo09/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -183,12 +187,14 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akodo09/leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akodo09/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +202,7 @@
 | [0347-top-k-frequent-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akodo09/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akodo09/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2833-furthest-point-from-origin](https://github.com/akodo09/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
@@ -361,4 +368,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/akodo09/leetcode_solutions/tree/master/0836-rectangle-overlap) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
