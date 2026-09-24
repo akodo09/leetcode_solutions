@@ -106,6 +106,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akodo09/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/akodo09/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Hash Table
@@ -134,6 +135,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akodo09/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akodo09/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akodo09/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
