@@ -48,6 +48,7 @@
 | [1672-richest-customer-wealth](https://github.com/akodo09/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akodo09/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akodo09/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akodo09/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akodo09/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [4020-elevator-requests-i](https://github.com/akodo09/leetcode_solutions/tree/master/4020-elevator-requests-i) |
@@ -138,6 +139,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/akodo09/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/akodo09/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akodo09/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/akodo09/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
@@ -294,6 +296,7 @@
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akodo09/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akodo09/leetcode_solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akodo09/leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/akodo09/leetcode_solutions/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Tree
