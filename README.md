@@ -81,6 +81,7 @@
 | [0189-rotate-array](https://github.com/akodo09/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/akodo09/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/akodo09/leetcode_solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/akodo09/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/akodo09/leetcode_solutions/tree/master/0836-rectangle-overlap) |
@@ -383,4 +384,8 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/akodo09/leetcode_solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
