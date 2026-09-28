@@ -107,6 +107,7 @@
 | [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/akodo09/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/akodo09/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akodo09/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -136,6 +137,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/akodo09/leetcode_solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akodo09/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/akodo09/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akodo09/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
@@ -247,6 +249,7 @@
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/akodo09/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/akodo09/leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/akodo09/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
@@ -293,6 +296,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akodo09/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/akodo09/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/akodo09/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/akodo09/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/akodo09/leetcode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/akodo09/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
