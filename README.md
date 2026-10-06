@@ -72,6 +72,7 @@
 | [0135-candy](https://github.com/akodo09/leetcode_solutions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/akodo09/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/akodo09/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akodo09/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/akodo09/leetcode_solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 ## Math
 |  |
@@ -114,6 +115,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/akodo09/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/akodo09/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/akodo09/leetcode_solutions/tree/master/0692-top-k-frequent-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akodo09/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1657-determine-if-two-strings-are-close](https://github.com/akodo09/leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/akodo09/leetcode_solutions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/akodo09/leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
@@ -289,6 +291,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/akodo09/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/akodo09/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/akodo09/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akodo09/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -372,6 +375,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akodo09/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/akodo09/leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
