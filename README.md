@@ -329,6 +329,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +340,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akodo09/leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -409,4 +412,12 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/akodo09/leetcode_solutions/tree/master/0319-bulb-switcher) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
