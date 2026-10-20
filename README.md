@@ -331,6 +331,7 @@
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -343,6 +344,7 @@
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -354,6 +356,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/akodo09/leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 | [0226-invert-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akodo09/leetcode_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/akodo09/leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akodo09/leetcode_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
